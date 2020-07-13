@@ -1,8 +1,11 @@
-# xylophone_flutter
+# XYLOPHONE 🎹
 
-A new Flutter application.
+## A new Flutter application.
+# GOAL
+# Give different Sounds on tapping on different Colors..!
 
-## Getting Started
+## OUTPUT
+
 
 This project is a starting point for a Flutter application.
 
